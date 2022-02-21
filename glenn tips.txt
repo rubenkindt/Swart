@@ -1,0 +1,7 @@
+Dat project is heel veel tekenen in visual paradigm dus als je de sneltoetsen wat kent en wat tricks om snel interfaces te verbinden dan gaat dat al wat sneller vooruit. Je gaat dat heel veel moeten doen bij het tekenen
+
+Zie ook dat je dat project kan delen op git zodat iedereen daar aan kan werken. Groepen die het bestand gewoon doorstuurden naar elkaar hadden heel veel tijdstekort
+
+Die prof verwacht ook echt dat als je het ontwerp van je architectuur geeft aan een team van software developers dat die dat ook bijna vlekkeloos in orde gaan krijgen en gaan kunnen doen werken zoals jij het wilt (wat in realiteit bijna nooit mogelijk is)
+
+Bij dat laatste punt: duidelijke interfaces, message passing en componenten dus
